@@ -4,17 +4,17 @@
 
 Pronounced: **hee-WEEK-wee-see**
 
-A tiny, extremely serious leadership manifesto wearing a PM-coach video loop.
+A tiny, extremely serious leadership manifesto wearing a cheesy agile coach video loop.
 
-HWIKWISI is the reminder that a good leader gives the team a clear enough picture of the end goal that everyone can recognize success when it arrives. The page keeps the message plain and real in the HTML, then lets the background get theatrical about it.
+HWIKWISI is the reminder that a good leader gives the team a clear enough picture of the end goal that everyone can recognize success when it arrives. The page keeps the message plain and real in the HTML, then lets the background get earnestly cheesy about it.
 
 ## What Is This?
 
-One static page. One acronym. One coach making sure the definition of "done" has adequate stage presence.
+One static page. One acronym. One agile coach making sure the definition of "done" has adequate stage presence.
 
 The design goal is simple:
 
-> Manifesto restraint in the DOM, coach-video camp in the animation.
+> Manifesto restraint in the DOM, cheesy agile coach energy in the animation.
 
 ## Run It Locally
 

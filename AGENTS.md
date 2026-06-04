@@ -2,7 +2,7 @@
 
 ## Project Intent
 
-HWIKWISI is a one-page, static, SEO-first homage to the phrase "How Will I Know When I See It." The joke is the contrast: the DOM and layout should feel plain, reverent, and manifesto-like, while the background motion is theatrical PM-coach camp.
+HWIKWISI is a one-page, static, SEO-first homage to the phrase "How Will I Know When I See It." The joke is the contrast: the DOM and layout should feel plain, reverent, and manifesto-like, while the background motion carries a cheesy agile coach aesthetic.
 
 ## Non-Negotiables
 
@@ -27,7 +27,7 @@ The typewriter phrases are decorative enhancement, not ranking content.
 
 ## Design Direction
 
-- Overall vibe: retro terminal manifesto plus campy PM-coach background.
+- Overall vibe: retro terminal manifesto plus cheesy agile coach background.
 - Layout should stay centered, simple, and restrained.
 - Loud visuals should come from the background video/poster, gradient pulse, and typewriter motion.
 - Typography should remain characterful monospace. Fonts are self-hosted in `assets/fonts/`.
