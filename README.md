@@ -41,6 +41,7 @@ assets/main.js              Typewriter loop and video reveal
 assets/hwikwisi.webm        Background video
 assets/hwikwisi.mp4         Background video fallback
 assets/poster.webp          Instant poster/fallback image
+assets/favicon.svg          Tiny tab icon
 assets/og-card.png          Social share image
 404.html                    GitHub Pages fallback
 robots.txt                  Crawl rules
