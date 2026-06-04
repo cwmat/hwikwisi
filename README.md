@@ -4,17 +4,17 @@
 
 Pronounced: **hee-WEEK-wee-see**
 
-A tiny, extremely serious leadership manifesto wearing a monster-movie cape.
+A tiny, extremely serious leadership manifesto wearing a PM-coach video loop.
 
 HWIKWISI is the reminder that a good leader gives the team a clear enough picture of the end goal that everyone can recognize success when it arrives. The page keeps the message plain and real in the HTML, then lets the background get theatrical about it.
 
 ## What Is This?
 
-One static page. One acronym. One roaring neon beast making sure the definition of "done" has adequate stage presence.
+One static page. One acronym. One coach making sure the definition of "done" has adequate stage presence.
 
 The design goal is simple:
 
-> Manifesto restraint in the DOM, monster-movie camp in the animation.
+> Manifesto restraint in the DOM, coach-video camp in the animation.
 
 ## Run It Locally
 

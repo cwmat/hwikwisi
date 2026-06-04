@@ -11,7 +11,10 @@ const typed = document.querySelector(".typed");
 const video = document.querySelector(".bg-video");
 
 if (video) {
-  const reveal = () => video.classList.add("is-ready");
+  const reveal = () => {
+    video.classList.add("is-ready");
+    video.closest(".bg")?.classList.add("is-video-ready");
+  };
 
   if (reduceMotion) {
     reveal();

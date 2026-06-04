@@ -187,6 +187,12 @@ footer p {
     var(--void);
 }
 
+.bg.is-video-ready {
+  background:
+    radial-gradient(circle at 50% 48%, rgba(255, 43, 191, 0.18), transparent 34%),
+    var(--void);
+}
+
 .bg-video,
 .bg-pulse,
 .bg-scrim {
