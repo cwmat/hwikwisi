@@ -2,7 +2,7 @@
 
 ## Project Intent
 
-HWIKWISI is a one-page, static, SEO-first homage to the phrase "How Will I Know When I See It." The joke is the contrast: the DOM and layout should feel plain, reverent, and manifesto-like, while the background motion carries a cheesy agile coach aesthetic.
+HWIKIWISI is a one-page, static, SEO-first homage to the phrase "How Will I Know It When I See It." The joke is the contrast: the DOM and layout should feel plain, reverent, and manifesto-like, while the background motion carries a cheesy agile coach aesthetic.
 
 ## Non-Negotiables
 
@@ -12,15 +12,15 @@ HWIKWISI is a one-page, static, SEO-first homage to the phrase "How Will I Know 
 - Preserve the single-screen, height-locked hero. Use `100svh` and `100dvh`, not plain `100vh`.
 - Keep the page fully responsive, with no scrolling required for the main experience.
 - Respect `prefers-reduced-motion`; animations should stop, the typewriter should become static, and the video should pause/degrade gracefully.
-- Maintain one `<h1>` only: `HWIKWISI`.
+- Maintain one `<h1>` only: `HWIKIWISI`.
 
 ## Core Copy
 
 The key SEO and meaning-bearing text should remain real DOM text:
 
-- `HWIKWISI`
-- `/ hee-WEEK-wee-see /`
-- `How Will I Know When I See It`
+- `HWIKIWISI`
+- `/ hee wee ki wee see /`
+- `How Will I Know It When I See It`
 - `A good leader gives their team a clear picture of the end - vivid enough that they'll know it when they see it.`
 
 The typewriter phrases are decorative enhancement, not ranking content.

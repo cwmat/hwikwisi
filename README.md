@@ -1,12 +1,12 @@
-# HWIKWISI
+# HWIKIWISI
 
-**How Will I Know When I See It**
+**How Will I Know It When I See It**
 
-Pronounced: **hee-WEEK-wee-see**
+Pronounced: **hee wee ki wee see**
 
 A tiny, extremely serious leadership manifesto wearing a cheesy agile coach video loop.
 
-HWIKWISI is the reminder that a good leader gives the team a clear enough picture of the end goal that everyone can recognize success when it arrives. The page keeps the message plain and real in the HTML, then lets the background get earnestly cheesy about it.
+HWIKIWISI is the reminder that a good leader gives the team a clear enough picture of the end goal that everyone can recognize success when it arrives. The page keeps the message plain and real in the HTML, then lets the background get earnestly cheesy about it.
 
 ## What Is This?
 
@@ -52,7 +52,7 @@ sitemap.xml                 Single-page sitemap
 
 - Keep it static: HTML, CSS, and vanilla JS.
 - Keep the important copy in the initial HTML.
-- Keep one `h1`: `HWIKWISI`.
+- Keep one `h1`: `HWIKIWISI`.
 - Keep it one screen.
 - Keep the media decorative.
 - Keep reduced-motion behavior respectful.
