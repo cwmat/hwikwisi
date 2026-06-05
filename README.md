@@ -46,6 +46,7 @@ assets/og-card.png          Social share image
 404.html                    GitHub Pages fallback
 robots.txt                  Crawl rules
 sitemap.xml                 Single-page sitemap
+CNAME                       GitHub Pages custom domain
 .github/workflows/deploy.yml GitHub Pages deploy
 ```
 

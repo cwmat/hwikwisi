@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chazm.github.io/hwikwisi/sitemap.xml
+Sitemap: https://www.hwikiwisi.com/sitemap.xml
